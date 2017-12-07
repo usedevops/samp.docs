@@ -1,0 +1,7 @@
+print3+2+1-5+4%2-1/4+6
+print"check the calculation13 + 12 < 5 - 7?"
+print13+12<5-7
+print("What is 13 + 12?",13+12)
+print"What is 25 - 27?",25-27
+print"Check few more ………………"
+print"Is it greater?",
